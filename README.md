@@ -31,7 +31,19 @@ I focus on **backend systems**, **automation pipelines**, and **AI-powered tools
 
 ---
 
-## 📌 Featured Projects
+## 📌 Portfolio Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [rag-api](https://github.com/TheOliveirad/rag-api) | RAG pipeline — LLM-powered document querying with vector search & FastAPI | Python · FastAPI · LLM · Docker |
+| [scrape-flow](https://github.com/TheOliveirad/scrape-flow) | Async scraping engine — rate limiting, retries, structured extraction & REST API | Python · FastAPI · httpx · Docker |
+| [workflow-engine](https://github.com/TheOliveirad/workflow-engine) | Workflow automation — triggers, conditions, actions & webhook ingestion | Python · FastAPI · Docker |
+| [data-pulse](https://github.com/TheOliveirad/data-pulse) | Pluggable ETL pipeline — composable sources, transforms & sinks | Python · FastAPI · Docker |
+| [saas-starter](https://github.com/TheOliveirad/saas-starter) | SaaS backend starter — JWT auth, RBAC, user management & billing hooks | Python · FastAPI · Docker |
+
+---
+
+## 🗂️ Other Projects
 
 | Project | Description | Stack |
 |---|---|---|
