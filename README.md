@@ -45,7 +45,7 @@ Reviews and job history are on my [Upwork profile](https://www.upwork.com/freela
 | [workflow-automation-engine](https://github.com/TheOliveirad/workflow-automation-engine) | Automation pipeline with retry logic, caching, batch mode and structured logging | Python, Docker |
 | [python-backend-automation-api](https://github.com/TheOliveirad/python-backend-automation-api) | FastAPI backend with clean architecture, database integrity rules, tests and Docker | Python, FastAPI, Docker |
 | [python-projects](https://github.com/TheOliveirad/python-projects) | Small CLI tools, scrapers and API clients | Python |
-| [c-programming](https://github.com/TheOliveirad/c-programming) | Custom printf, n-gram counter and Mastermind, written for my degree | C, Makefile |
+| [c-programming](https://github.com/TheOliveirad/c-programming) | Custom printf, n-gram counter and Mastermind from my programming training | C, Makefile |
 
 ## Stack
 
